@@ -4,7 +4,7 @@ public class HW3 {
         byte a = 100;
         short b = 1000;
         int c = 10000;
-        long d = 100000l;
+        long d = 100000L;
         float e = 2.5f;
 
 
